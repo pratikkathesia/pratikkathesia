@@ -7,6 +7,8 @@
 - 🌱 I’m currently **`full stack web developer`**
 
 - 📫 How to reach me : **pratikkathesia@gmail.com**
+  
+- 💼 My portfolio : **https://pratikkathesia.github.io/**
 
 ---
 
